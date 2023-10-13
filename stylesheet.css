@@ -2,3 +2,27 @@ img{
     width:150px;
     height: 150px;
 }
+h1 {
+    display:flex;
+    justify-content: center;
+    color:blue;
+}
+body{
+    background-color: antiquewhite;
+}
+.kidBackPack{
+/* height:100vh; */
+padding:100px;
+color: #333333; 
+background: url(img/elementarystudent.png) no-repeat bottom right;
+}
+
+.studentCompute{
+padding:200px;
+color: #333333; 
+background: url(img/student.jpg) no-repeat bottom left;
+}
+figure img{
+    width:700px;
+    height:1000px;
+}
